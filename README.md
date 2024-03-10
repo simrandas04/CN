@@ -8,5 +8,5 @@ CSMA/CD manages access to a shared network medium by multiple devices. This simu
 
 ## Uses
 
-1. **Server**: Run `ser.py` to start listening on port 8888.
-2. **Client**: Run `cli.py`, connect to `127.0.0.1:8888`, and enter position data.
+1. **Server**: Run `server.py` to start listening on port 8888.
+2. **Client**: Run `client.py`, connect to `127.0.0.1:8888`, and enter position data.
