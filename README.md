@@ -9,4 +9,4 @@ CSMA/CD manages access to a shared network medium by multiple devices. This simu
 ## Uses
 
 1. **Server**: Run `server.py` to start listening on port 5555.
-2. **Client**: Run `client.py`, connect to `127.0.0.1:8888`, and enter position data.
+2. **Client**: Run `client.py`, connect to `127.0.0.1:5555`, and enter position data.
